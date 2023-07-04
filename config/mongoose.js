@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 // mongoose.connect('mongodb://0.0.0.0/employeReviewSystem');
-const DB = "mongodb://127.0.0.1:27017/CSV_Upload";
+const DB =
+  "mongodb+srv://Pradhansubham2001:SGshreyans232214@web-devs.fg0hqjw.mongodb.net/";
 
 // These set of line can be written in async await fashion, but I have followed the documentation.
 mongoose
